@@ -1,0 +1,10 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# không đưa lên GitHub
+*.pdf
+.env
